@@ -1,4 +1,6 @@
 {
+  "name": "settermjd/url-redirector",
+  "description": "This is a simple package that simplifies the process of performing redirects from one absolute URL to another. It's not meant to be, in any way, sophisticated.",
   "type": "library",
   "license": "BSD-3-Clause",
   "authors": [
